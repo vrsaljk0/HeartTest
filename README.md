@@ -28,7 +28,7 @@ Za što preciznije rezultate potrebno je ispravno pozicionirati senzor na jagodi
 
 #### Pritiskom na KEY4: 
 * Pokreće se mjerenje pulsa; korisnik mora 15 sekundi mirno držati senzor na prstu.  
-* Kada istekne vrijeme prikazuju se prethodni (zapisani u EEPROM memoriji) i trenutni rezultati mjerenja otkucaja srca
+* Na kraju se prikazuju prethodni (zapisani u EEPROM memoriji) i trenutni rezultati mjerenja otkucaja srca
  
 #### Pritiskom na KEY3: 
 * Prikazuju se detaljniji podaci o trenutnom mjerenju
